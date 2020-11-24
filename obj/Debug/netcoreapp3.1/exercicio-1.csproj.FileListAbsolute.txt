@@ -1,0 +1,13 @@
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\obj\Debug\netcoreapp3.1\exercicio-1.csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\obj\Debug\netcoreapp3.1\exercicio-1.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\obj\Debug\netcoreapp3.1\exercicio-1.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\obj\Debug\netcoreapp3.1\exercicio-1.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\bin\Debug\netcoreapp3.1\exercicio-1.exe
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\bin\Debug\netcoreapp3.1\exercicio-1.deps.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\bin\Debug\netcoreapp3.1\exercicio-1.runtimeconfig.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\bin\Debug\netcoreapp3.1\exercicio-1.runtimeconfig.dev.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\bin\Debug\netcoreapp3.1\exercicio-1.dll
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\bin\Debug\netcoreapp3.1\exercicio-1.pdb
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\obj\Debug\netcoreapp3.1\exercicio-1.dll
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\obj\Debug\netcoreapp3.1\exercicio-1.pdb
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\exercicio 1\exercicio-1\obj\Debug\netcoreapp3.1\exercicio-1.genruntimeconfig.cache
